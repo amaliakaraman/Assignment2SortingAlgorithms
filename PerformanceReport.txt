@@ -1,0 +1,18 @@
+Amalia Karaman Performance Report
+Assignment 2
+
+Testing BubbleSort
+BubbleSort: 0.8263561000000001 ms
+Testing InsertionSort
+InsertionSort: 0.3704708 ms
+Testing SelectionSort
+SelectionSort: 0.47606434999999997 ms
+Testing ShellSort
+ShellSort: 0.18430414999999997 ms
+Testing QuickSort
+QuickSort: 0.07802714999999999 ms
+Testing MergeSort
+MergeSort: 0.2637063 ms
+QuickSort: 0.03774375 ms
+
+Process finished with exit code 0
